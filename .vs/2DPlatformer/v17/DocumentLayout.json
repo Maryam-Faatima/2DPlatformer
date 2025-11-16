@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester5\\GameDev\\2DPlatformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|d:\\semester5\\gamedev\\2dplatformer\\assets\\mine\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\enemy\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\enemy\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\enemy\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\enemy\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|d:\\semester5\\gamedev\\2dplatformer\\assets\\mine\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|d:\\semester5\\gamedev\\2dplatformer\\assets\\mine\\scripts\\enemy\\ragedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\enemy\\ragedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\management\\levelselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\management\\levelselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\management\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\management\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\management\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\management\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\management\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\management\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\management\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\management\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\management\\characterselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\management\\characterselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\management\\soundmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\management\\soundmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\management\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\management\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\others\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\others\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\enemy\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\enemy\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\others\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\others\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\player\\crouchscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\player\\crouchscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\others\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\others\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\others\\objectsrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\others\\objectsrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\others\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\others\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\others\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\others\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\others\\fireballpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\others\\fireballpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\others\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\others\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\player\\dizzyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\player\\dizzyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\player\\flykickscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\player\\flykickscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\enemy\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\enemy\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\traps\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\traps\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\traps\\firetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\traps\\firetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|D:\\Semester5\\GameDev\\2DPlatformer\\assets\\mine\\scripts\\enemy\\enemyfireballholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|Assembly-CSharp.csproj|solutionrelative:assets\\mine\\scripts\\enemy\\enemyfireballholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Enemy\\EnemyPatrol.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Enemy\\EnemyPatrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:26:48.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "playerAttack.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\playerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\player\\playerAttack.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\playerAttack.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\player\\playerAttack.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:19:59.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playerMovement.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\playerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\player\\playerMovement.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\playerMovement.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\player\\playerMovement.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:19:24.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RagedEnemy.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\RagedEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Enemy\\RagedEnemy.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\RagedEnemy.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Enemy\\RagedEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T17:47:12.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cameraMovement.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\cameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Management\\cameraMovement.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\cameraMovement.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Management\\cameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:10:28.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeleeEnemy.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\MeleeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Enemy\\MeleeEnemy.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\MeleeEnemy.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Enemy\\MeleeEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T15:53:40.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuScript.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\MenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Management\\MenuScript.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\MenuScript.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Management\\MenuScript.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:28:00.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelSelection.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\LevelSelection.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Management\\LevelSelection.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\LevelSelection.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Management\\LevelSelection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:44:32.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "soundManagement.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\soundManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Management\\soundManagement.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\soundManagement.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Management\\soundManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:17:44.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Management\\UIManager.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\UIManager.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Management\\UIManager.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:05:21.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Management\\Finish.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\Finish.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Management\\Finish.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:05:48.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Management\\LevelManager.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Management\\LevelManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:40:23.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharacterSelection.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\CharacterSelection.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Management\\CharacterSelection.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Management\\CharacterSelection.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Management\\CharacterSelection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:32:47.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Others\\MovingPlatform.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Others\\MovingPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:59:58.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyProjectile.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\EnemyProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Enemy\\EnemyProjectile.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\EnemyProjectile.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Enemy\\EnemyProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:01:26.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Others\\Projectile.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\Projectile.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Others\\Projectile.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:52:30.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CrouchScript.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\CrouchScript.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\player\\CrouchScript.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\CrouchScript.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\player\\CrouchScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:50:09.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlyKickScript.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\FlyKickScript.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\player\\FlyKickScript.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\FlyKickScript.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\player\\FlyKickScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:19:48.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FireBallPool.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\FireBallPool.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Others\\FireBallPool.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\FireBallPool.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Others\\FireBallPool.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:51:22.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\Mobile.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Others\\Mobile.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\Mobile.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Others\\Mobile.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:53:58.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "objectsRotation.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\objectsRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Others\\objectsRotation.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\objectsRotation.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Others\\objectsRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:56:48.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "wayPointFollower.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\wayPointFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Others\\wayPointFollower.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\wayPointFollower.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Others\\wayPointFollower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:57:31.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Health.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Others\\Health.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\Health.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Others\\Health.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T15:48:11.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Collectable.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\Collectable.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Others\\Collectable.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Others\\Collectable.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Others\\Collectable.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:03:19.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dizzyPlayer.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\dizzyPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\player\\dizzyPlayer.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\player\\dizzyPlayer.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\player\\dizzyPlayer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:20:48.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Enemy\\EnemyDamage.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Enemy\\EnemyDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:57:47.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArrowTrap.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Traps\\ArrowTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Traps\\ArrowTrap.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Traps\\ArrowTrap.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Traps\\ArrowTrap.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:15:07.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FireTrap.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Traps\\FireTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Traps\\FireTrap.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Traps\\FireTrap.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Traps\\FireTrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:10:33.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnemyFireBallHolder.cs",
+              "DocumentMoniker": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\EnemyFireBallHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\mine\\scripts\\Enemy\\EnemyFireBallHolder.cs",
+              "ToolTip": "D:\\Semester5\\GameDev\\2DPlatformer\\Assets\\mine\\scripts\\Enemy\\EnemyFireBallHolder.cs",
+              "RelativeToolTip": "Assets\\mine\\scripts\\Enemy\\EnemyFireBallHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:14:00.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

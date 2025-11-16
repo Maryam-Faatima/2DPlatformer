@@ -1,0 +1,28 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+Logs/
+MemoryCaptures/
+ECHO is on.
+# Auto-generated VS/Rider files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+ECHO is on.
+# OS files
+.DS_Store
+Thumbs.db
+ECHO is on.
+# Keep essential Unity folders
+!/Assets/
+!/ProjectSettings/
+!/Packages/
